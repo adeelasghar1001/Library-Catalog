@@ -1,0 +1,21 @@
+Title Author 1000 0
+Percy Jackson	Rick Riordan	1001	1
+50 Shades of Grey	E. L. James	1002	0
+The Da Vinci Code	Dan Brown	1003	1
+The Hunger Games	Suzanne Collins	1004	0
+To Kill a Mockingbird	Harper Lee	1005	0
+Pride and Prejudice	Janes Austen	1006	1
+Twilight	Stephenie Meyer	1007	1
+The Book Thief	Markus Zusak	1008	0
+Harry Potter 7	J.K. Rowling	1009	1
+Microbiology	19	2000	0
+Journal of Ecology	45	2001	0
+Journal of Management	32	2002	1
+Journal of Biology	98	2003	1
+American Journal	14 2004 1
+Nature	23	2005	0
+Time	92	3001	0
+National Geographic	12	3002	1
+The New Yorker	43	3003	1
+People	22	3004	1
+Reader's Digest	88	3005	0
