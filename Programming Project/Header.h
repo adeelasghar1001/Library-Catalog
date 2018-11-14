@@ -8,7 +8,7 @@ public:
 	void setTitle(string);
 	void setID(int);
 	void setStatus(int);
-	
+
 	string getTitle() const;
 	int getID() const;
 	int getStatus() const;
